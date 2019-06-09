@@ -74,8 +74,9 @@
 }
 
 .matrix-third {
-    width: 400px;
-    height: 400px;
+    width: 450px;
+    height: 450px;
+    font-size: 30px;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(4, 1fr);
 }
